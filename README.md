@@ -87,11 +87,3 @@
 - `POST /api/vote` - Submit vote
 
 ---
-
-## 📷 Screenshots
-
-*(Add screenshots of key UI pages here if available)*
-    
----
-
-
